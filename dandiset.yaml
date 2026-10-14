@@ -42,7 +42,7 @@ assetsSummary:
   - ProcessingModule
 citation: Reimer, Jacob; Galdamez, Mario (2026) Mesoscale two-photon voltage imaging
   of single  Layer 5 somata and their corresponding apical dendrites in mouse visual
-  cortex (Version draft) [Data set]. DANDI Archive. https://dandiarchive.org/dandiset/001876/draft
+  cortex (Version 0.261014.0414) [Data set]. DANDI Archive. https://doi.org/10.48324/dandi.001876/0.261014.0414
 contributor:
 - email: reimer@bcm.edu
   identifier: 0000-0003-4364-8846
@@ -71,24 +71,38 @@ contributor:
   - dcite:Funder
   schemaKey: Organization
 dateCreated: '2026-06-24T16:30:28.768174+00:00'
+datePublished: '2026-10-14T04:14:34.223858+00:00'
 description: We are exporting the 12 dendritic recordings spanning lengths and imaging
   sampling rates from 4 mice expressing the voltage sensor JEDI3hyp. This dataset
   contains two-photon mesoscope recordings spanning multiple focal planes traversing
   one to two Layer 5 soma and their corresponding apical dendrites in addition to
   aligned locomotion and pupil data.
+doi: 10.48324/dandi.001876/0.261014.0414
 ethicsApproval: []
-id: DANDI:001876/draft
+id: DANDI:001876/0.261014.0414
 identifier: DANDI:001876
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/001876/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/001876/0.261014.0414/assets.yaml
 name: Mesoscale two-photon voltage imaging of single  Layer 5 somata and their corresponding
   apical dendrites in mouse visual cortex
+publishedBy:
+  endDate: '2026-10-14T04:14:34.223858+00:00'
+  id: urn:uuid:52f8a582-4922-4326-8106-dbfd86d1ac16
+  name: DANDI publish
+  schemaKey: PublishActivity
+  startDate: '2026-10-14T04:14:34.223858+00:00'
+  wasAssociatedWith:
+  - id: urn:uuid:c6066dce-e6c9-437b-8b39-127d6e5ed546
+    identifier: RRID:SCR_017571
+    name: DANDI API
+    schemaKey: Software
+    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.7.0
-url: https://dandiarchive.org/dandiset/001876/draft
-version: draft
+url: https://dandiarchive.org/dandiset/001876/0.261014.0414
+version: 0.261014.0414
 wasGeneratedBy: []
